@@ -1,0 +1,296 @@
+Brand Details
+
+Brand Name: VIRAMORÉ
+Tagline: PRESENCE, BOTTLED.
+Sub Tagline: The Silent Language of Sovereignty
+
+Brand personality:
+Luxury
+Minimal
+Powerful
+Royal
+Mysterious
+
+Brand description:
+"The Silent Language Of Luxury."
+
+Color Palette
+
+Background: Deep Charcoal Black (#0A0A0A)
+Secondary Background: Matte Dark Grey
+
+Accent Color: Metallic Gold (#D4AF37)
+
+Rules:
+
+Gold for headings
+
+Gold borders on buttons
+
+White / light grey body text
+
+Lots of negative space
+
+Typography
+
+Headlines:
+Cinzel OR Playfair Display (royal serif font)
+
+Body Text:
+Montserrat OR League Spartan
+
+Design Rules:
+
+Large elegant headlines
+
+Wide letter spacing
+
+Minimal text blocks
+
+Premium editorial layout
+
+Animation Requirements
+
+The entire site must feel slow and elegant.
+
+Animation rules:
+
+Fade-in animation on scroll
+All sections gently appear when scrolling.
+
+Subtle Parallax Effect
+Background images move slightly slower than foreground.
+
+Smooth hover effects
+Buttons glow slightly with gold border transition.
+
+No aggressive animations
+No sliders
+No popups
+No flashing elements.
+
+The experience should feel calm and luxurious.
+
+Hero Section
+
+Hero must contain a cinematic luxury visual.
+
+Use either:
+
+Slow motion golden drop falling
+OR
+
+slow luxury smoke trail representing bakhoor
+
+Hero Content:
+
+Headline:
+PRESENCE, BOTTLED.
+
+Subheadline:
+The silent language of sovereignty.
+
+CTA Button:
+Claim Your Presence
+
+Secondary CTA:
+Explore The Collection
+
+Center the brand logo (VIRAMORÉ gold seal) in the header.
+
+Problem Section (Purpose)
+
+Title:
+The Problem With Modern Fragrance
+
+Content:
+
+The Lack of Identity
+Generic perfumes make everyone smell the same.
+We offer "Identity in a Drop."
+Our masterpieces are mood-mapped to your persona.
+
+The Disappointment of Longevity
+High street scents vanish within hours.
+We provide Eternal Presence through oil-based attars.
+
+The Chaos of Synthetics
+Chemical blends lack soul and cause fatigue.
+We use raw ingredients like Oud and Amber.
+
+Purpose Statement
+
+"In a world of mass-produced, fleeting scents, VIRAMORÉ restores the power of personal presence.
+
+We solve the disappointment of weak synthetic fragrances by offering high-concentration oil blends that linger as long as your legacy.
+
+We don't just offer scent.
+We offer a silent language of authority."
+
+USP Section
+
+Title:
+Why VIRAMORÉ
+
+Mood-Mapped Artistry
+Wear the scent that defines your emotional persona.
+
+Ancient Alchemy
+Traditional distillation using rare ingredients.
+
+Silent Luxury
+Minimal matte textures and sovereign gold accents.
+
+About Section
+
+Title:
+The VIRAMORÉ Story
+
+Content:
+
+True luxury isn't manufactured.
+It is distilled through time.
+
+Our journey led us to Kannauj — the heart of Indian perfumery for over 400 years.
+
+Using the traditional Deg-Bhapka steam distillation process, we extract the purest essences of Oud, Amber, and Rose.
+
+Each drop is distilled through patience and fire in copper stills.
+
+This is not fragrance.
+
+This is liquid legacy.
+
+Mission
+
+"Our mission is to resurrect the ancient art of sovereign perfumery.
+
+By combining the 400-year heritage of Kannauj with modern minimalist luxury, we craft liquid auras that ensure your presence is remembered long after you leave the room."
+
+Vision
+
+"To become the global benchmark of silent luxury where India's ancestral alchemy meets modern identity."
+
+Products Section
+
+Title:
+The Collections
+
+The Sovereign Collection
+Signature Attars distilled using the traditional Deg-Bhapka process.
+
+Format:
+Matte Black Dropper Bottles.
+
+Royal Bakhoors & Ouds
+Premium wood chips infused with oils.
+
+Used to transform your home into a sanctuary.
+
+Bespoke Scent Consultations
+Private experience helping customers discover their signature scent.
+
+Available during exclusive exhibitions.
+
+Special Packages Section
+
+Discovery Curation
+Limited edition attar discovery set.
+
+Exhibition Special
+Access rare scents available only at exhibitions.
+
+Bespoke Gifting Experience
+Luxury corporate and wedding gift boxes.
+
+Contact Section
+
+Display:
+
+Phone
+Email
+WhatsApp
+Office Address
+
+Instagram:
+https://www.instagram.com/viramore.lab
+
+Footer
+
+Include legal pages:
+
+Privacy Policy
+Terms & Conditions
+Refund Policy
+
+Iconography
+
+Use minimal gold line icons for:
+
+Steam Distilled
+Handcrafted
+Pure Ingredients
+Luxury Heritage
+
+UI Style
+
+Minimalistic luxury layout
+
+Full width sections
+
+Large cinematic images
+
+Dark theme
+
+Slow transitions
+
+Elegant spacing
+
+Technical Requirements
+
+Build with:
+
+HTML
+TailwindCSS
+JavaScript
+
+Must include:
+
+Responsive design
+Mobile optimized
+SEO friendly
+Smooth scrolling
+Luxury animations
+
+Important
+
+The entire website should feel like:
+
+Apple + Rolex + Arabian luxury perfume brand.
+
+Mood:
+Dark
+Quiet
+Powerful
+Elegant
+Minimal
+
+Logo
+
+I will upload the VIRAMORÉ logo separately.
+Use it as the center header seal.
+
+Output
+
+Generate a complete production-ready website.
+
+Include:
+
+Navigation
+Hero
+Story
+Products
+USP
+Packages
+Contact
+Footer
