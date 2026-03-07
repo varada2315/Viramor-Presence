@@ -337,7 +337,7 @@ export default function Home() {
                 viewport={{ once: true, margin: "-100px" }}
                 className="aspect-[3/4] relative group overflow-hidden"
               >
-                <img src={attarImage} alt="Sovereign Attar Collection" className="object-cover w-full h-full transition-transform duration-[2s] group-hover:scale-105" />
+                <img src={attarImage} alt="Sovereign Attar Collection" className="object-cover w-full h-full transition-transform duration-[2s] group-hover:scale-105 opacity-30 md:opacity-100" />
                 <div className="absolute inset-0 border border-white/5 m-8 z-10 pointer-events-none transition-all duration-700 group-hover:border-primary/20"></div>
                 <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-700"></div>
               </motion.div>
@@ -354,10 +354,6 @@ export default function Home() {
                 <p className="text-white/50 font-light leading-loose mb-12 text-sm md:text-base">
                   Distilled using the traditional Deg-Bhapka process. These pure, highly concentrated oils are designed to melt into your skin, creating a unique olfactory signature that lasts for days.
                 </p>
-                <div className="flex items-center gap-6 mb-12 p-6 border border-white/5 bg-white/[0.01]">
-                  <div className="w-1.5 h-1.5 bg-primary rounded-full"></div>
-                  <span className="text-white/70 tracking-[0.2em] text-[10px] uppercase">Format: Matte Black Dropper Bottles</span>
-                </div>
                 <a href="#contact" data-testid="button-view-collection" className="inline-block px-10 py-5 border border-primary/30 text-white font-serif tracking-[0.2em] uppercase text-xs hover:bg-primary hover:text-background hover:border-primary transition-all duration-700">
                   View Collection
                 </a>
