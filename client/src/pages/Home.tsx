@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { Droplet, Flame, Sparkles, Crown, Phone, Mail, MessageCircle, MapPin, Instagram } from "lucide-react";
+import { Link } from "wouter";
 
 // Images
 import heroSmoke from "@/assets/images/hero-smoke.png";
@@ -541,9 +542,7 @@ export default function Home() {
           <div className="pt-12 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-8 text-[10px] tracking-[0.3em] text-white/30 uppercase">
             <p>&copy; {new Date().getFullYear()} VIRAMORÉ. All rights reserved.</p>
             <div className="flex gap-10">
-              <a href="#" data-testid="link-footer-privacy" className="hover:text-primary transition-colors">Privacy Policy</a>
-              <a href="#" data-testid="link-footer-terms" className="hover:text-primary transition-colors">Terms & Conditions</a>
-              <a href="#" data-testid="link-footer-refund" className="hover:text-primary transition-colors">Refund Policy</a>
+              <Link href="/privacy" data-testid="link-footer-privacy" className="hover:text-primary transition-colors">Privacy Policy</Link>
             </div>
           </div>
         </div>
