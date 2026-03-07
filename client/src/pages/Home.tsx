@@ -106,7 +106,7 @@ export default function Home() {
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
               <a 
-                href="#collections"
+                href="#contact"
                 data-testid="link-hero-claim"
                 className="px-10 py-5 bg-primary text-background font-serif tracking-[0.2em] uppercase text-xs hover:bg-white transition-all duration-700 hover:shadow-[0_0_30px_rgba(212,175,55,0.3)]"
               >
@@ -367,9 +367,9 @@ export default function Home() {
                   <div className="w-1.5 h-1.5 bg-primary rounded-full"></div>
                   <span className="text-white/70 tracking-[0.2em] text-[10px] uppercase">Format: Matte Black Dropper Bottles</span>
                 </div>
-                <button data-testid="button-view-collection" className="px-10 py-5 border border-primary/30 text-white font-serif tracking-[0.2em] uppercase text-xs hover:bg-primary hover:text-background hover:border-primary transition-all duration-700">
+                <a href="#contact" data-testid="button-view-collection" className="inline-block px-10 py-5 border border-primary/30 text-white font-serif tracking-[0.2em] uppercase text-xs hover:bg-primary hover:text-background hover:border-primary transition-all duration-700">
                   View Collection
-                </button>
+                </a>
               </motion.div>
             </div>
 
@@ -387,9 +387,9 @@ export default function Home() {
                 <p className="text-white/50 font-light leading-loose mb-12 text-sm md:text-base">
                   Premium wood chips meticulously infused with rare oils. Used for centuries by royalty to transform their homes into sanctuaries of peace and power.
                 </p>
-                <button data-testid="button-view-bakhoor" className="px-10 py-5 border border-primary/30 text-white font-serif tracking-[0.2em] uppercase text-xs hover:bg-primary hover:text-background hover:border-primary transition-all duration-700">
+                <a href="#contact" data-testid="button-view-bakhoor" className="inline-block px-10 py-5 border border-primary/30 text-white font-serif tracking-[0.2em] uppercase text-xs hover:bg-primary hover:text-background hover:border-primary transition-all duration-700">
                   Discover Bakhoors
-                </button>
+                </a>
               </motion.div>
               
               <motion.div 
