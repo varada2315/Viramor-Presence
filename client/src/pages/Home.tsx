@@ -123,15 +123,6 @@ export default function Home() {
           </motion.div>
         </div>
         
-        <motion.div 
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 2, duration: 2 }}
-          className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-4 text-white/30"
-        >
-          <span className="text-[10px] tracking-[0.3em] uppercase">Scroll</span>
-          <div className="w-[1px] h-16 bg-gradient-to-b from-white/30 to-transparent"></div>
-        </motion.div>
       </section>
 
       {/* The Problem Section */}
@@ -276,9 +267,9 @@ export default function Home() {
               viewport={{ once: true }}
               src={distillationImage} 
               alt="Traditional distillation" 
-              className="absolute inset-0 w-full h-full object-cover grayscale-[30%] opacity-80"
+              className="absolute inset-0 w-full h-full object-cover grayscale-[30%] opacity-40 md:opacity-80"
             />
-            <div className="absolute inset-0 bg-gradient-to-r from-background/80 md:from-transparent to-background"></div>
+            <div className="absolute inset-0 bg-gradient-to-r from-background/60 md:from-transparent to-background"></div>
             <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent md:hidden"></div>
           </div>
           
