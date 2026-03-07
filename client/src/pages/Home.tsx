@@ -491,21 +491,21 @@ export default function Home() {
               </p>
               
               <div className="space-y-8">
-                <a href="tel:+910000000000" data-testid="link-contact-phone" className="flex items-center gap-8 text-white/60 hover:text-primary transition-colors duration-500 group">
+                <a href="tel:+918468896754" data-testid="link-contact-phone" className="flex items-center gap-8 text-white/60 hover:text-primary transition-colors duration-500 group">
                   <div className="w-14 h-14 border border-white/10 flex items-center justify-center rounded-full group-hover:border-primary/40 group-hover:bg-primary/5 transition-all duration-500">
                     <Phone strokeWidth={1} className="w-5 h-5" />
                   </div>
-                  <span className="tracking-[0.1em] text-sm">Call Concierge</span>
+                  <span className="tracking-[0.1em] text-sm">+91 84688 96754</span>
                 </a>
                 
-                <a href="mailto:concierge@viramore.com" data-testid="link-contact-email" className="flex items-center gap-8 text-white/60 hover:text-primary transition-colors duration-500 group">
+                <a href="mailto:info@viramore.co.in" data-testid="link-contact-email" className="flex items-center gap-8 text-white/60 hover:text-primary transition-colors duration-500 group">
                   <div className="w-14 h-14 border border-white/10 flex items-center justify-center rounded-full group-hover:border-primary/40 group-hover:bg-primary/5 transition-all duration-500">
                     <Mail strokeWidth={1} className="w-5 h-5" />
                   </div>
-                  <span className="tracking-[0.1em] text-sm">concierge@viramore.com</span>
+                  <span className="tracking-[0.1em] text-sm">info@viramore.co.in</span>
                 </a>
                 
-                <a href="#" data-testid="link-contact-whatsapp" className="flex items-center gap-8 text-white/60 hover:text-primary transition-colors duration-500 group">
+                <a href="https://wa.me/918468896754" target="_blank" rel="noopener noreferrer" data-testid="link-contact-whatsapp" className="flex items-center gap-8 text-white/60 hover:text-primary transition-colors duration-500 group">
                   <div className="w-14 h-14 border border-white/10 flex items-center justify-center rounded-full group-hover:border-primary/40 group-hover:bg-primary/5 transition-all duration-500">
                     <MessageCircle strokeWidth={1} className="w-5 h-5" />
                   </div>
@@ -520,9 +520,9 @@ export default function Home() {
                 <div className="flex items-start gap-6 text-white/50 font-light">
                   <MapPin strokeWidth={1} className="w-5 h-5 text-primary mt-1 shrink-0" />
                   <p className="leading-loose text-sm">
-                    VIRAMORÉ Headquarters<br />
-                    Luxury District<br />
-                    New Delhi, India
+                    Mohit Paradise, Plot No. 93,<br />
+                    Lullanagar,<br />
+                    Pune - 411040
                   </p>
                 </div>
               </div>
