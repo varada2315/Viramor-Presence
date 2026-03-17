@@ -121,7 +121,7 @@ export default function PrivacyPolicy() {
                 </div>
                 <div className="flex items-start gap-4">
                   <MapPin size={18} className="text-primary mt-1" />
-                  <span className="text-white/80">Mohit Paradise, Plot No. 93, Lullanagar, Pune - 411040</span>
+                  <span className="text-white/80">Viramoré House, Lullanagar, Pune 411040</span>
                 </div>
               </div>
             </section>
